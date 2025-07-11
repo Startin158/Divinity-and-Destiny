@@ -11,7 +11,7 @@
 },
 {
 		"name": "Divine power",
-		"resourceType": "Stategic",
+		"resourceType": "Strategic",
   "uniques": ["Stockpiled","AI will buy at [10] Gold","AI will sell at [10] Gold"],
 	},
 {
