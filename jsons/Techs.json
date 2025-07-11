@@ -31,7 +31,7 @@
 			{
 				"name": "Drama and Poetry",
 				"row": 3,
-				"prerequisites": ["Dive power"],
+				"prerequisites": ["Divine power"],
 				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
 			},
  ]
@@ -116,7 +116,7 @@
 		"techs": [
 			{
 				"name": "New divine power",
-				"row": 2,
+				"row": 1,
 				"prerequisites": ["Biology", "Electricity"],
                 "uniques": ["[+25]% weight to this choice for AI decisions"],
 				"quote": "'And homeless near a thousand homes I stood, and near a thousand tables pined and wanted food.' - William Wordsworth"
@@ -132,7 +132,7 @@
 		"techs": [
 			{
 				"name": "Aucune idée",
-				"row": 3,
+				"row": 4,
 				"prerequisites": ["Flight","Railroads"],
                 "uniques": ["[+60]% weight to this choice for AI decisions"],
 				"quote": "'Ben, I want to say one word to you, just one word: plastics.' - Buck Henry and Calder Willingham, The Graduate"
