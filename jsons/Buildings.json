@@ -27,7 +27,16 @@
 		"requiredTech": ""
 	},
 {
-		"name": "Electricity well",
+		"name": "Fire well",
+		"cost": 500,
+		"happiness": 1,
+		"culture": 2,
+		"Faith": 2,
+		"uniques": ["Provides [1] [Heart of fire]","Limited to [2] per Civilization","Destroyed when the city is captured"],
+		"requiredTech": ""
+	},
+{
+		"name": "Electric well",
 		"cost": 500,
 		"happiness": 1,
 		"culture": 2,
@@ -36,21 +45,12 @@
 		"requiredTech": ""
 	},
 {
-		"name": "well",
+		"name": "Nature well",
 		"cost": 500,
 		"happiness": 1,
 		"culture": 2,
 		"Faith": 2,
-		"uniques": ["Provides [1] [Heart of]","Limited to [2] per Civilization","Destroyed when the city is captured"],
-		"requiredTech": ""
-	},
-{
-		"name": "well",
-		"cost": 500,
-		"happiness": 1,
-		"culture": 2,
-		"Faith": 2,
-		"uniques": ["Provides [1] [Heart of]","Limited to [2] per Civilization","Destroyed when the city is captured"],
+		"uniques": ["Provides [1] [Heart of well]","Limited to [2] per Civilization","Destroyed when the city is captured"],
 		"requiredTech": ""
 	},
 {
