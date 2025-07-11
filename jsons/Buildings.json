@@ -1,15 +1,11 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
+		"name": "well",
+		"cost": 500,
+		"happiness": 1,
+		"culture": 2,
+		"Faith": 2,
+		"uniques": ["Provides [1] [Heart of]","Limited to [2] per Civilization","Destroyed when the city is captured"],
 		"requiredTech": "Horseback Riding"
 	},
 	{
