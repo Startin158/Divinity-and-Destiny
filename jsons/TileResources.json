@@ -1,8 +1,12 @@
 [
 {
-		"name": "Mana",
+		"name": "Divine power",
+		"resourceType": "Stategic",
+  "uniques": "",
+	},
+{
+		"name": "Hearth of water",
 		"resourceType": "Luxury",
-		"gold": 2,
-		"uniques": ["Can only be created by Mercantile City-States"]
+		"Happiness": 2,
 	},
 ]
