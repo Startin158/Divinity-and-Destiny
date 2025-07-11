@@ -1,2 +1,13 @@
 [
+{
+		"name": "Feu",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 20,
+		"rangedStrength": 24,
+		"cost": 200,
+		"requiredTech": "Great divine power",
+  "uniques": []
+		"attackSound": "crossbow"
+	},
 ]
