@@ -50,7 +50,25 @@
 		"happiness": 1,
 		"culture": 2,
 		"Faith": 2,
-		"uniques": ["Provides [1] [Heart of well]","Limited to [2] per Civilization","Destroyed when the city is captured"],
+		"uniques": ["Provides [1] [Heart of nature]","Limited to [2] per Civilization","Destroyed when the city is captured"],
+		"requiredTech": ""
+	},
+{
+		"name": "Mana well",
+		"cost": 500,
+		"happiness": 1,
+		"culture": 2,
+		"Faith": 2,
+		"uniques": ["Provides [1] [Heart of mana]","Limited to [2] per Civilization","Destroyed when the city is captured"],
+		"requiredTech": ""
+	},
+{
+		"name": "Ice well",
+		"cost": 500,
+		"happiness": 1,
+		"culture": 2,
+		"Faith": 2,
+		"uniques": ["Provides [1] [Heart of ice]","Limited to [2] per Civilization","Destroyed when the city is captured"],
 		"requiredTech": ""
 	},
 {
@@ -63,30 +81,12 @@
 		"requiredTech": ""
 	},
 {
-		"name": "well",
+		"name": "Nuclear well",
 		"cost": 500,
 		"happiness": 1,
 		"culture": 2,
 		"Faith": 2,
-		"uniques": ["Provides [1] [Heart of]","Limited to [2] per Civilization","Destroyed when the city is captured"],
-		"requiredTech": ""
-	},
-{
-		"name": "well",
-		"cost": 500,
-		"happiness": 1,
-		"culture": 2,
-		"Faith": 2,
-		"uniques": ["Provides [1] [Heart of]","Limited to [2] per Civilization","Destroyed when the city is captured"],
-		"requiredTech": ""
-	},
-{
-		"name": "well",
-		"cost": 500,
-		"happiness": 1,
-		"culture": 2,
-		"Faith": 2,
-		"uniques": ["Provides [1] [Heart of]","Limited to [2] per Civilization","Destroyed when the city is captured"],
+		"uniques": ["Provides [1] [Heart of radiation]","Limited to [2] per Civilization","Destroyed when the city is captured"],
 		"requiredTech": ""
 	},
 	{
