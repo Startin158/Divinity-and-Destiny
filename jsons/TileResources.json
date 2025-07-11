@@ -15,47 +15,47 @@
   "uniques": ["Stockpiled","AI will buy at [10] Gold","AI will sell at [10] Gold"],
 	},
 {
-		"name": "Hearth of water",
+		"name": "Heart of water",
 		"resourceType": "Luxury",
 		"Happiness": 2,
 	},
 {
-		"name": "Hearth of earth",
+		"name": "Heart of earth",
 		"resourceType": "Luxury",
 		"Happiness": 2,
 	},
 {
-		"name": "Hearth of fire",
+		"name": "Heart of fire",
 		"resourceType": "Luxury",
 		"Happiness": 2,
 	},
 {
-		"name": "Hearth of wind",
+		"name": "Heart of wind",
 		"resourceType": "Luxury",
 		"Happiness": 2,
 	},
 {
-		"name": "Hearth of electric",
+		"name": "Heart of electric",
 		"resourceType": "Luxury",
 		"Happiness": 2,
 	},
 {
-		"name": "Hearth of ice",
+		"name": "Heart of ice",
 		"resourceType": "Luxury",
 		"Happiness": 2,
 	},
 {
-		"name": "Hearth of nature",
+		"name": "Heart of nature",
 		"resourceType": "Luxury",
 		"Happiness": 2,
 	},
 {
-		"name": "Hearth of mana",
+		"name": "Heart of mana",
 		"resourceType": "Luxury",
 		"Happiness": 2,
 	},
 {
-		"name": "Hearth of radiation",
+		"name": "Heart of radiation",
 		"resourceType": "Luxury",
 		"Happiness": 2,
 	}
