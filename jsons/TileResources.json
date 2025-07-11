@@ -1,6 +1,6 @@
 [
 {
-		"name": "Energy instabilité",
+		"name": "Energy instability",
 		"resourceType": "Bonus",
 		"revealedBy": "Animal Husbandry",
 		"terrainsCanBeFoundOn": ["Land"],
