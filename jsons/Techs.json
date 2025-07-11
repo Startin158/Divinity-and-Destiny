@@ -7,7 +7,7 @@
 		"wonderCost": 250,
 		"techs": [
 {
-				"name": "Magic",
+				"name": "Mage",
 				"row": 2,
 				"prerequisites": ["Calendar","Writing"],
                 "uniques": ["[+50]% weight to this choice for AI decisions"],
@@ -25,13 +25,13 @@
 			{
 				"name": "Philosophy",
 				"row": 2,
-				"prerequisites": ["Magic"],
+				"prerequisites": ["Mage"],
 				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 			},
 			{
 				"name": "Drama and Poetry",
 				"row": 3,
-				"prerequisites": ["Magic"],
+				"prerequisites": ["Mage"],
 				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
 			},
 ]
@@ -44,7 +44,7 @@
 		"wonderCost": 400,
 		"techs": [
 		{
-				"name": "M2",
+				"name": "Great mage",
 				"cost": 375,
 				"row": 2,
 				"prerequisites": ["Theology"],
