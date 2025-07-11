@@ -5,7 +5,7 @@
 		"happiness": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Construction",
-		"uniques": ["Pillaging this improvement yields approximately [+10 Gold]","Can only be built on [Energy] tiles"],
+		"uniques": ["Pillaging this improvement yields approximately [+10 Gold]","Can only be built on [Energy instability] tiles"],
 		"shortcutKey": "a"
 	},
 ]
