@@ -105,4 +105,20 @@
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'Is it a fact - or have I dreamt it - that, by means of electricity, the world of matter has become a great nerve, vibrating thousands of miles in a breathless point of time?' - Nathaniel Hawthorne"
 			},
+ ]
+},
+{
+		"columnNumber": 11,
+		"era": "Modern era",
+		"techCost": 3100,
+		"buildingCost": 500,
+		"wonderCost": 1060,
+		"techs": [
+			{
+				"name": "New divine power",
+				"row": 2,
+				"prerequisites": ["Biology", "Electricity"],
+                "uniques": ["[+25]% weight to this choice for AI decisions"],
+				"quote": "'And homeless near a thousand homes I stood, and near a thousand tables pined and wanted food.' - William Wordsworth"
+			},
 ]
