@@ -6,7 +6,7 @@
 		"culture": 2,
 		"Faith": 2,
 		"uniques": ["Provides [1] [Heart of water]","Limited to [2] per Civilization","Destroyed when the city is captured"],
-		"requiredTech": ""
+		"requiredTech": "Engineering"
 	},
 {
 		"name": "Earth well",
@@ -15,7 +15,7 @@
 		"culture": 2,
 		"Faith": 2,
 		"uniques": ["Provides [1] [Heart of earth]","Limited to [2] per Civilization","Destroyed when the city is captured"],
-		"requiredTech": ""
+		"requiredTech": "Engineering"
 	},
 {
 		"name": "Wind well",
@@ -24,7 +24,7 @@
 		"culture": 2,
 		"Faith": 2,
 		"uniques": ["Provides [1] [Heart of wind]","Limited to [2] per Civilization","Destroyed when the city is captured"],
-		"requiredTech": ""
+		"requiredTech": "Engineering"
 	},
 {
 		"name": "Fire well",
@@ -33,7 +33,7 @@
 		"culture": 2,
 		"Faith": 2,
 		"uniques": ["Provides [1] [Heart of fire]","Limited to [2] per Civilization","Destroyed when the city is captured"],
-		"requiredTech": ""
+		"requiredTech": "Engineering"
 	},
 {
 		"name": "Electric well",
@@ -42,7 +42,7 @@
 		"culture": 2,
 		"Faith": 2,
 		"uniques": ["Provides [1] [Heart of electric]","Limited to [2] per Civilization","Destroyed when the city is captured"],
-		"requiredTech": ""
+		"requiredTech": "Engineering"
 	},
 {
 		"name": "Nature well",
@@ -51,7 +51,7 @@
 		"culture": 2,
 		"Faith": 2,
 		"uniques": ["Provides [1] [Heart of nature]","Limited to [2] per Civilization","Destroyed when the city is captured"],
-		"requiredTech": ""
+		"requiredTech": "Engineering"
 	},
 {
 		"name": "Mana well",
@@ -60,7 +60,7 @@
 		"culture": 2,
 		"Faith": 2,
 		"uniques": ["Provides [1] [Heart of mana]","Limited to [2] per Civilization","Destroyed when the city is captured"],
-		"requiredTech": ""
+		"requiredTech": "Engineering"
 	},
 {
 		"name": "Ice well",
@@ -69,7 +69,7 @@
 		"culture": 2,
 		"Faith": 2,
 		"uniques": ["Provides [1] [Heart of ice]","Limited to [2] per Civilization","Destroyed when the city is captured"],
-		"requiredTech": ""
+		"requiredTech": "Engineering"
 	},
 {
 		"name": "well",
@@ -78,7 +78,7 @@
 		"culture": 2,
 		"Faith": 2,
 		"uniques": ["Provides [1] [Heart of]","Limited to [2] per Civilization","Destroyed when the city is captured"],
-		"requiredTech": ""
+		"requiredTech": "Engineering"
 	},
 {
 		"name": "Nuclear well",
@@ -87,7 +87,7 @@
 		"culture": 2,
 		"Faith": 2,
 		"uniques": ["Provides [1] [Heart of radiation]","Limited to [2] per Civilization","Destroyed when the city is captured"],
-		"requiredTech": ""
+		"requiredTech": "Engineering"
 	},
 	{
 		"name": "Breeders",
