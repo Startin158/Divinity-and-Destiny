@@ -54,4 +54,9 @@
 		"resourceType": "Luxury",
 		"Happiness": 2,
 	},
+{
+		"name": "Hearth of radiation",
+		"resourceType": "Luxury",
+		"Happiness": 2,
+	},
 ]
