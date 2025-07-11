@@ -1,5 +1,16 @@
 [
 {
+		"name": "Energy instabilité",
+		"resourceType": "Bonus",
+		"revealedBy": "Animal Husbandry",
+		"terrainsCanBeFoundOn": ["Desert"],
+		"culture": 1,
+  "gold": 2,
+		"improvementStats": {"Faith": 2},
+		"uniques": ["Deposits in [Snow] tiles always provide [5] resources","Guaranteed with Strategic Balance resource option","","","","","",""],
+		"majorDepositAmount": {"sparse": 3, "default": 5, "abundant": 7},
+		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
+{
 		"name": "Divine power",
 		"resourceType": "Stategic",
   "uniques": "Stockpiled",
