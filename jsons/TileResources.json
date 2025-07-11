@@ -3,7 +3,7 @@
 		"name": "Energy instability",
 		"resourceType": "Bonus",
 		"revealedBy": "Pottery",
-		"terrainsCanBeFoundOn": ["Land"],
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Desert","Tundra","Snow"],
 		"culture": 1,
   "gold": 2,
 		"improvementStats": {"Faith": 2},
