@@ -1,0 +1,11 @@
+{
+		"name": "Energy instability",
+		"type": "TerrainFeature",
+		"movementCost": 2,
+		"culture": 1,
+		"Gold": 1,
+		"occursOn": ["Land"],
+  "uniques": ["Rough terrain","[+10] Strength for cities built on this terrain","A Region is formed with at least [5]% [Energy instability] tiles, with priority [3]","Considered [Desirable] when determining start locations","Considered [Culture] when determining start locations","Considered [Gold] when determining start locations","Considered [Food] when determining start locations",],
+  "civilopediaText": [{"text":"A Camp can be built here without cutting it down"
+	},
+	},
