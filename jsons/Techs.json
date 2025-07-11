@@ -121,4 +121,35 @@
                 "uniques": ["[+25]% weight to this choice for AI decisions"],
 				"quote": "'And homeless near a thousand homes I stood, and near a thousand tables pined and wanted food.' - William Wordsworth"
 			},
+ ]
+},
+{
+		"columnNumber": 12,
+		"era": "Modern era",
+		"techCost": 4100,
+		"buildingCost": 500,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "Aucune idée",
+				"row": 3,
+				"prerequisites": ["Flight","Railroads"],
+                "uniques": ["[+60]% weight to this choice for AI decisions"],
+				"quote": "'Ben, I want to say one word to you, just one word: plastics.' - Buck Henry and Calder Willingham, The Graduate"
+			},
+	]
+},
+{
+		"columnNumber": 15,
+		"era": "Information era",
+		"techCost": 7700,
+		"buildingCost": 750,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "Divine radiation",
+				"row": 4,
+				"prerequisites": ["Nuclear Fission"],
+				"quote": "'The more we elaborate our means of communication, the less we communicate.' - J.B. Priestly"
+			},
 ]
