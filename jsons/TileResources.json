@@ -12,7 +12,7 @@
 {
 		"name": "Divine power",
 		"resourceType": "Stategic",
-  "uniques": "Stockpiled",
+  "uniques": ["Stockpiled","AI will buy at [10] Gold","AI will sell at [10] Gold"],
 	},
 {
 		"name": "Hearth of water",
