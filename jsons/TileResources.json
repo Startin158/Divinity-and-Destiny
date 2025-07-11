@@ -2,10 +2,45 @@
 {
 		"name": "Divine power",
 		"resourceType": "Stategic",
-  "uniques": "",
+  "uniques": "Stockpiled",
 	},
 {
 		"name": "Hearth of water",
+		"resourceType": "Luxury",
+		"Happiness": 2,
+	},
+{
+		"name": "Hearth of earth",
+		"resourceType": "Luxury",
+		"Happiness": 2,
+	},
+{
+		"name": "Hearth of fire",
+		"resourceType": "Luxury",
+		"Happiness": 2,
+	},
+{
+		"name": "Hearth of wind",
+		"resourceType": "Luxury",
+		"Happiness": 2,
+	},
+{
+		"name": "Hearth of electric",
+		"resourceType": "Luxury",
+		"Happiness": 2,
+	},
+{
+		"name": "Hearth of ice",
+		"resourceType": "Luxury",
+		"Happiness": 2,
+	},
+{
+		"name": "Hearth of nature",
+		"resourceType": "Luxury",
+		"Happiness": 2,
+	},
+{
+		"name": "Hearth of mana",
 		"resourceType": "Luxury",
 		"Happiness": 2,
 	},
