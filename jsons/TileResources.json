@@ -2,7 +2,7 @@
 {
 		"name": "Energy instability",
 		"resourceType": "Bonus",
-		"revealedBy": "Animal Husbandry",
+		"revealedBy": "Pottery",
 		"terrainsCanBeFoundOn": ["Land"],
 		"culture": 1,
   "gold": 2,
