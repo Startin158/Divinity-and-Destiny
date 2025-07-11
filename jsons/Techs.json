@@ -16,6 +16,27 @@
 ]
 },
 {
+		"columnNumber": 4,
+		"era": "Classical era",
+		"techCost": 175,
+		"buildingCost": 100,
+		"wonderCost": 250,
+		"techs": [
+			{
+				"name": "Philosophy",
+				"row": 2,
+				"prerequisites": ["Magic"],
+				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
+			},
+			{
+				"name": "Drama and Poetry",
+				"row": 3,
+				"prerequisites": ["Magic"],
+				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
+			},
+]
+},
+{
 		"columnNumber": 6,
 		"era": "Medieval era",
 		"techCost": 485,
