@@ -44,11 +44,6 @@
         "type": "Pantheon",
         "uniques": ["[-1 Happiness, +1 Gold, +1 Faith, +1 Production, +1 Food] per [1] population [in all cities]","[-1 Happiness, +2 Gold, +1 Faith, +2 Food] per [1] population [in capital]"]
     },
-{
-        "name": "Slow but better",
-        "type": "Pantheon",
-        "uniques": ["[-33]% [Faith] [in all cities]","[-16]% [Faith] [in all cities] <after founding a religion>","[-17]% [Faith] [in all cities] <after enhancing a religion>","Comment [fuck]"]
-    },
 
 
 
@@ -66,10 +61,44 @@
         "uniques": ["May buy [Divine Tower] buildings with [Faith] [in cities following this religion]"]
     },
    {
-        "name": "Asceticism",
+        "name": "Gold lover",
         "type": "Follower",
-        "uniques": ["[+1 Happiness] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>"]
+        "uniques": ["[+1 Happiness] from every [Trading post]","[+2 Gold] from all [Gold] buildings"] 
     },
+  {
+        "name": "Sacred mine",
+        "type": "Follower",
+        "uniques": ["[+1 Faith, +1 Production] from every [Mine]","[+1 Faith, +1 Production] from every [Quarry]"]
+    },
+  {
+        "name": "Holy Animals",
+        "type": "Follower",
+        "uniques": ["[+1 Faith, +1 Food] from every [Camp]","[+1 Faith, +1 Food] from every [Pasture]"]
+    },
+  {
+        "name": "Nurturing nature",
+        "type": "Follower",
+        "uniques": ["[+1 Faith, +1 Food] from every [Ferme]","[+1 Faith, +1 Food] from every [Plantation]","[+1 Faith, +1 Food] from every [Terrace farm]","[+1 Faith, +1 Food] from every [Polder]"]
+    },
+{
+        "name": "The promised waters",
+        "type": "Follower",
+        "uniques": ["[+1 Faith] from [Coast] tiles [in cities following this religion]","[+1 Faith] from [Ocean] tiles [in cities following this religion]"]
+    },
+  {
+        "name": "Religious joy",
+        "type": "Follower",
+        "uniques": ["[-2 Gold, +1 Happiness] from all [Faith] buildings","May buy [It] buildings with [Faith] [in cities following this religion]"]
+    },
+{
+        "name": "Idolatry of the great",
+        "type": "Follower",
+        "uniques": ["[+1 Happiness] from every [Great Improvement]","Free Great Person <every [254] turns>"]
+    },
+
+
+
+
 
 
 
