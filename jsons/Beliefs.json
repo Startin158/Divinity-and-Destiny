@@ -49,17 +49,18 @@
         "type": "Pantheon",
         "uniques": ["[-1 Happiness, +1 Gold, +1 Faith, +1 Production, +1 Food] per [1] population [in all cities]","[-1 Happiness, +2 Gold, +1 Faith, +2 Food] per [1] population [in capital]"]
     },
+{
+        "name": "Slow but better",
+        "type": "Pantheon",
+        "uniques": ["May choose [-2] additional [Any] beliefs when [enhancing] a religion","Gain a free [Any] belief <upon entering a new era>"]
+    },
 
 
 
 
 
-
-
-
-
-  
   // aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 
 
 
