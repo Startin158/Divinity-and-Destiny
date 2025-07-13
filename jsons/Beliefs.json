@@ -47,7 +47,7 @@
 {
         "name": "Slow but better",
         "type": "Pantheon",
-        "uniques": ["[-33]% [Faith] [in all cities]","May choose [1] additional [Founder] beliefs when [founding] a religion","May choose [1] additional [Follower] beliefs when [enhancing] a religion"]
+        "uniques": ["[-33]% [Faith] [in all cities]","[-16]% [Faith] [in all cities] <after founding a religion>","[-17]% [Faith] [in all cities] <after enhancing a religion>","May choose [1] additional [Founder] beliefs when [founding] a religion","May choose [1] additional [Follower] beliefs when [enhancing] a religion"]
     },
 
 
