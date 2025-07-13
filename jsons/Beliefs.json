@@ -1,9 +1,25 @@
 [
     {
-        "name": "Ancestor Worship",
+        "name": "Scientific religion",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Shrine]"]
+        "uniques": ["May buy [Science] buildings with [Faith] for [3] times their normal Production cost"]
     },
+{
+        "name": "Sacred production",
+        "type": "Pantheon",
+        "uniques": ["May buy [Production] buildings with [Faith] for [3] times their normal Production cost"]
+    },
+{
+        "name": "Goddess of games",
+        "type": "Pantheon",
+        "uniques": ["May buy [Happiness] buildings with [Faith] for [2] times their normal Production cost"]
+    },
+{
+        "name": "God of lovers",
+        "type": "Pantheon",
+        "uniques": ["[5]% growth [in all cities]","[10]% growth [in capital]"]
+    },
+
 
 
 
@@ -14,7 +30,11 @@
 
 
 
-  
+  {
+        "name": "Closer to the deities",
+        "type": "Follower",
+        "uniques": ["May buy [Divine Tower] buildings with [Faith] [in cities following this religion]"]
+    },
    {
         "name": "Asceticism",
         "type": "Follower",
