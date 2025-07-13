@@ -25,11 +25,6 @@
         "uniques": ["All newly-trained [non-air] units [in all cities] receive the [Blessing of Hermes] promotion"]
     },
 {
-        "name": "Merchant God",
-        "type": "Pantheon",
-        "uniques": ["Comment [Great Merchant is earned 33% faster]","[+33]% Gold from Great Merchant trade missions"]
-    },
-{
         "name": "Goddess of Commerce",
         "type": "Pantheon",
         "uniques": ["[+1 Gold] from [All Road] tiles [in all cities]","[+1 Faith] from [All Road] tiles [in all cities]","[+1 Production] from [Railroad] tiles [in all cities]"]
@@ -52,7 +47,7 @@
 {
         "name": "Slow but better",
         "type": "Pantheon",
-        "uniques": ["Comment [You can't choose additional beliefs when enhancing a religion]","Gain a free [Any] belief <upon entering a new era>"]
+        "uniques": ["Comment [You can't choose additional beliefs when enhancing a religion]",Gain a free [Pantheon] belief <during the [Classical era]>]
     },
 
 
