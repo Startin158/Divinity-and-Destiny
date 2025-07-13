@@ -52,7 +52,7 @@
 {
         "name": "Slow but better",
         "type": "Pantheon",
-        "uniques": ["May choose [-2] additional [Any] beliefs when [enhancing] a religion","Gain a free [Any] belief <upon entering a new era>"]
+        "uniques": ["Comment [You can't choose additional beliefs when enhancing a religion]","Gain a free [Any] belief <upon entering a new era>"]
     },
 
 
