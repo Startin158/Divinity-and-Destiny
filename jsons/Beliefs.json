@@ -47,7 +47,7 @@
 {
         "name": "Slow but better",
         "type": "Pantheon",
-        "uniques": ["Comment [You can't choose additional beliefs when enhancing a religion but you gain a free belief in each era]"]
+        "uniques": ["[-33]% [Faith] [in all cities]","May choose [1] additional [Founder] beliefs when [founding] a religion","May choose [1] additional [Follower] beliefs when [enhancing] a religion"]
     },
 
 
