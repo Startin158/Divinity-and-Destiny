@@ -24,6 +24,29 @@
         "type": "Pantheon",
         "uniques": ["All newly-trained [non-air] units [in all cities] receive the [Blessing of Hermes] promotion"]
     },
+{
+        "name": "Merchant God",
+        "type": "Pantheon",
+        "uniques": ["[Great Merchant] is earned [+33]% faster","[+33]% Gold from Great Merchant trade missions"]
+    },
+{
+        "name": "Goddess of Commerce",
+        "type": "Pantheon",
+        "uniques": ["[+1 Gold] from [All Road] tiles [in all cities]","[+1 Faith] from [All Road] tiles [in all cities]","[+1 Production] from [Railroad] tiles [in all cities]"]
+    },
+{
+        "name": "Worker Icon",
+        "type": "Pantheon",
+        "uniques": ["Can build [All] improvements at a [80]% rate","May buy [Worker] units with [Faith] for [2] times their normal Production cost","May buy [Work Boats] units with [Faith] for [1] times their normal Production cost"]
+    },
+{
+        "name": "Cult of power",
+        "type": "Pantheon",
+        "uniques": ["Provides [6] [resource]"]
+    },
+
+
+
 
 
 
