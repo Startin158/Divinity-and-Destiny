@@ -47,7 +47,7 @@
 {
         "name": "Slow but better",
         "type": "Pantheon",
-        "uniques": ["Comment [You can't choose additional beliefs when enhancing a religion]",Gain a free [Pantheon] belief <during the [Classical era]>]
+        "uniques": ["Comment [You can't choose additional beliefs when enhancing a religion]","Gain a free [Pantheon] belief <during the [Classical era]>"]
     },
 
 
