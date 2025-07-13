@@ -5,6 +5,6 @@
     },
 {
                 "name": "Child of god",
-                "uniques": ["[+1] Movement","[1] Movement point cost to embark","[0] Movement point cost to disembark"],
+                "uniques": ["Can transform to [Incomplete god] <Instantly consumes [500] [Divine power]>","[+15]% Strength"],
     }
 ]
