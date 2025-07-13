@@ -27,7 +27,7 @@
 {
         "name": "Merchant God",
         "type": "Pantheon",
-        "uniques": ["[Great Merchant] is earned [+33]% faster","[+33]% Gold from Great Merchant trade missions"]
+        "uniques": ["Comment [Great Merchant is earned 33% faster]","[+33]% Gold from Great Merchant trade missions"]
     },
 {
         "name": "Goddess of Commerce",
