@@ -13,6 +13,7 @@
 			"Takes your religion over the one in their birth city"],
 		"movement": 2,
 		"religiousStrength": 1000
+},
 {
 		"name": "Feu",
 		"unitType": "Archery",
