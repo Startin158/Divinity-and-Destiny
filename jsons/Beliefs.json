@@ -37,7 +37,7 @@
 {
         "name": "Cult of power",
         "type": "Pantheon",
-        "uniques": ["Provides [6] [Divine power]"]
+        "uniques": ["Provides [6] [Divine power]","All newly-trained [non-air] units [in all cities] receive the [Child of god] promotion"]
     },
 {
         "name": "Religious tyranny",
@@ -111,10 +111,21 @@
 
   
    {
-        "name": "Ceremonial Burial",
+        "name": "Submission of the vanquished",
         "type": "Founder",
-        "uniques": ["[+1 Happiness] for each global city following this religion"]
+        "uniques": ["[+2 Happiness, +2 Culture] from all [Courthouse] buildings","[-25]% Unhappiness from [Population] [in annexed cities]"]
     },
+   {
+        "name": "Divine fortifications",
+        "type": "Founder",
+        "uniques": ["[+1 Happiness, +2 Production] from every [Fort]","[-50]% construction time for [Fort] improvements","[+50]% Strength <in [Fort] tiles>","Gain a free [Pantheon] belief <in [in all cities] cities>"]
+    },
+   {
+        "name": "Divine Strengthening",
+        "type": "Founder",
+        "uniques": ["Provides [1] [Divine power] <in [in all cities] cities>","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
+    },
+
 
 
 
