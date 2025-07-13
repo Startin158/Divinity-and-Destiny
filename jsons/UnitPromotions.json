@@ -2,5 +2,9 @@
 {
                 "name": "Blessing of Hermes",
                 "uniques": ["[+1] Movement","[1] Movement point cost to embark","[0] Movement point cost to disembark"],
+    },
+{
+                "name": "Child of god",
+                "uniques": ["[+1] Movement","[1] Movement point cost to embark","[0] Movement point cost to disembark"],
     }
 ]
