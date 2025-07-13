@@ -42,8 +42,14 @@
 {
         "name": "Cult of power",
         "type": "Pantheon",
-        "uniques": ["Provides [6] [resource]"]
+        "uniques": ["Provides [6] [Divine power]"]
     },
+{
+        "name": "Religious tyranny",
+        "type": "Pantheon",
+        "uniques": ["Provides [6] [Divine power]"]
+    },
+
 
 
 
