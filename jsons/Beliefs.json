@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Ancestor Worship",
+        "type": "Pantheon",
+        "uniques": ["[+1 Culture] from every [Shrine]"]
+    },
+
+
+
+
+  
+  // aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+
+
+
+  
+   {
+        "name": "Asceticism",
+        "type": "Follower",
+        "uniques": ["[+1 Happiness] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>"]
+    },
+
+
+
+
+
+  //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+
+
+
+  
+   {
+        "name": "Ceremonial Burial",
+        "type": "Founder",
+        "uniques": ["[+1 Happiness] for each global city following this religion"]
+    },
+
+
+
+
+
+  //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+
+
+
+  
+   {
+        "name": "Holy Order",
+        "type": "Enhancer",
+        "uniques": ["[Faith] cost of purchasing [Missionary] units [-30]%", "[Faith] cost of purchasing [Inquisitor] units [-30]%"]
+    },
