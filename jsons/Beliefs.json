@@ -47,7 +47,7 @@
 {
         "name": "Religious tyranny",
         "type": "Pantheon",
-        "uniques": ["Provides [6] [Divine power]"]
+        "uniques": ["[-1 Happiness, +1 Gold, +1 Faith, +1 Production, +1 Food] per [1] population [in all cities]","[-1 Happiness, +2 Gold, +1 Faith, +2 Food] per [1] population [in capital]"]
     },
 
 
