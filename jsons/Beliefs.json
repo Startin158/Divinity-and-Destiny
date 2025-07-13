@@ -19,6 +19,11 @@
         "type": "Pantheon",
         "uniques": ["[5]% growth [in all cities]","[10]% growth [in capital]"]
     },
+{
+        "name": "God of travel",
+        "type": "Pantheon",
+        "uniques": ["All newly-trained [non-air] units [in all cities] receive the [Blessing of Hermes] promotion"]
+    },
 
 
 
