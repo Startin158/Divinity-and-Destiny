@@ -130,15 +130,25 @@
 		"prerequisites": ["Defensive mage II"],
 		"uniques": ["Heals [10] damage if it kills a unit"],
 		"unitTypes": ["Mage"],
-        "column": 5,
+        "column": 6,
         "row": 3
 	},
 {
-		"name": "Medecin",
+		"name": "No idea of name",
 		"prerequisites": ["Defensive mage III"],
 		"uniques": ["Unit will heal every turn, even if it performs an action"],
 		"unitTypes": ["Mage"],
-        "column": 5,
-        "row": 3
+        "column": 6,
+        "row": 4
+	},
+
+
+
+{
+		"name": "Boost",
+		"uniques": ["[This Unit] gains [10] XP <Instantly consumes [20] [Divine power]>","This Promotion is free","[This Unit] loses the [Boost] status"],
+		"unitTypes": ["Mage"],
+        "column": 7,
+        "row": 1
 	},
 ]
