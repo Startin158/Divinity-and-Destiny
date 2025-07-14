@@ -118,12 +118,17 @@
    {
         "name": "Divine fortifications",
         "type": "Founder",
-        "uniques": ["[+1 Happiness, +2 Production] from every [Fort]","[-50]% construction time for [Fort] improvements","[+50]% Strength <in [Fort] tiles>","Gain a free [Pantheon] belief <in [in all cities] cities>"]
+        "uniques": ["[+1 Happiness, +2 Production] from every [Fort]","[-50]% construction time for [Fort] improvements","[+50]% Strength <in [Fort] tiles>","Gain a free [Pantheon] belief"]
     },
    {
         "name": "Divine Strengthening",
         "type": "Founder",
         "uniques": ["Provides [1] [Divine power] <in [in all cities] cities>","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
+    },
+{
+        "name": "Divine Nature",
+        "type": "Founder",
+        "uniques": ["[+100 Gold] for discovering a Natural Wonder (bonus enhanced to [+300 Gold] if first to discover it)","[+2 Faith, +2 Gold, +2 Culture] from [Natural Wonder] tiles [in cities following this religion]","Triggers a [Choose a belief] event <upon discovering a Natural Wonder>"]
     },
 
 
@@ -138,8 +143,8 @@
 
   
    {
-        "name": "Holy Order",
+        "name": "Religious dogmas",
         "type": "Enhancer",
-        "uniques": ["[Faith] cost of purchasing [Missionary] units [-30]%", "[Faith] cost of purchasing [Inquisitor] units [-30]%"]
+        "uniques": ["[+1 Faith] per [2] population [in cities following our religion]"]
     },
 ]
