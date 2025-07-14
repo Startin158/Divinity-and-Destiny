@@ -125,29 +125,21 @@
 
 
 
-
-	{
-		"name": "Volley",
-		"prerequisites": [""],
-		"uniques": ["[+50]% Strength <vs cities>"],
+{
+		"name": "Vampirism",
+		"prerequisites": ["Defensive mage II"],
+		"uniques": ["Heals [10] damage if it kills a unit"],
 		"unitTypes": ["Mage"],
-        "column": 3,
-        "row": 1
-	},
-	{
-		"name": "Extended Range",
-		"prerequisites": [""],
-		"uniques": ["[+1] Range"],
-		"unitTypes": ["Mage"],
-        "column": 3,
+        "column": 5,
         "row": 3
 	},
-	{
-		"name": "Indirect Fire",
-		"prerequisites": [""],
-		"uniques": ["Ranged attacks may be performed over obstacles"],
+{
+		"name": "Medecin",
+		"prerequisites": ["Defensive mage III"],
+		"uniques": ["Unit will heal every turn, even if it performs an action"],
 		"unitTypes": ["Mage"],
-        "column": 3,
-        "row": 4
+        "column": 5,
+        "row": 3
+	},
 	},
 ]
