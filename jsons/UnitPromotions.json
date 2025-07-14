@@ -1,4 +1,5 @@
 [
+// croyanceeeeeeee
 {
                 "name": "Blessing of Hermes",
                 "uniques": ["[+1] Movement","[1] Movement point cost to embark","[0] Movement point cost to disembark"],
@@ -7,4 +8,77 @@
                 "name": "Child of god",
                 "uniques": ["Can transform to [Incomplete god] <Instantly consumes [1000] [Divine power]>","Can transform to [God?] <Instantly consumes [10000] [Divine power]>","[+15]% Strength"],
     }
+//mageeeeeeeee
+{
+		"name": "Accuracy I",
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>"],
+		"unitTypes": ["Mage"],
+        "column": 1,
+        "row": 1
+    },
+	{
+		"name": "Accuracy II",
+		"prerequisites": ["Accuracy I"],
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>"],
+		"unitTypes": ["Mage"],
+        "column": 1,
+        "row": 2
+    },
+	{
+		"name": "Accuracy III",
+		"prerequisites": ["Accuracy II"],
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>"],
+		"unitTypes": ["Mage"],
+        "column": 1,
+        "row": 3
+    },
+
+	{
+		"name": "Barrage I",
+		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"],
+		"unitTypes": ["Mage"],
+        "column": 2,
+        "row": 1
+	},
+	{
+		"name": "Barrage II",
+		"prerequisites": ["Barrage I"],
+		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"],
+		"unitTypes": ["Mage"],
+        "column": 2,
+        "row": 2
+	},
+	{
+		"name": "Barrage III",
+		"prerequisites": ["Barrage II"],
+		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"],
+		"unitTypes": ["Mage"],
+        "column": 2,
+        "row": 3
+	},
+
+	{
+		"name": "Volley",
+		"prerequisites": ["Accuracy I","Barrage I"],
+		"uniques": ["[+50]% Strength <vs cities>"],
+		"unitTypes": ["Mage"],
+        "column": 3,
+        "row": 1
+	},
+	{
+		"name": "Extended Range",
+		"prerequisites": ["Accuracy III","Barrage III","Targeting II","Bombardment II", "Wolfpack II"],
+		"uniques": ["[+1] Range"],
+		"unitTypes": ["Mage"],
+        "column": 3,
+        "row": 3
+	},
+	{
+		"name": "Indirect Fire",
+		"prerequisites": ["Accuracy III", "Barrage III", "Bombardment II", "Targeting II"],
+		"uniques": ["Ranged attacks may be performed over obstacles"],
+		"unitTypes": ["Mage"],
+        "column": 3,
+        "row": 4
+	},
 ]
