@@ -10,56 +10,125 @@
     }
 //mageeeeeeeee
 {
-		"name": "Accuracy I",
-		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>"],
+		"name": "Offensive mage I",
+		"uniques": ["[+15]% Strength <when attacking>"],
 		"unitTypes": ["Mage"],
         "column": 1,
         "row": 1
     },
 	{
-		"name": "Accuracy II",
-		"prerequisites": ["Accuracy I"],
-		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>"],
+		"name": "Offensive mage II",
+		"prerequisites": ["Offensive mage I"],
+		"uniques": ["[+15]% Strength <when attacking>"],
 		"unitTypes": ["Mage"],
         "column": 1,
         "row": 2
     },
 	{
-		"name": "Accuracy III",
-		"prerequisites": ["Accuracy II"],
-		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>"],
+		"name": "Offensive mage III",
+		"prerequisites": ["Offensive mage II"],
+		"uniques": ["[+15]% <when attacking>"],
 		"unitTypes": ["Mage"],
         "column": 1,
         "row": 3
     },
 
-	{
-		"name": "Barrage I",
-		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"],
-		"unitTypes": ["Mage"],
-        "column": 2,
-        "row": 1
-	},
-	{
-		"name": "Barrage II",
-		"prerequisites": ["Barrage I"],
-		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"],
-		"unitTypes": ["Mage"],
-        "column": 2,
-        "row": 2
-	},
-	{
-		"name": "Barrage III",
-		"prerequisites": ["Barrage II"],
-		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>"],
+
+
+{
+		"name": "Barbarian mage",
+		"prerequisites": ["Offensive mage II"],
+		"uniques": ["No movement cost to pillage"],
 		"unitTypes": ["Mage"],
         "column": 2,
         "row": 3
+    },
+{
+		"name": "Blitz",
+		"prerequisites": ["Offensive mage III"],
+		"uniques": ["[1] additional attacks per turn"],
+		"unitTypes": ["Mage"],
+        "column": 2,
+        "row": 4
+    },
+
+
+
+{
+		"name": "Land advantages I",
+		"uniques": ["[+1] Sight"],
+		"unitTypes": ["Mage"],
+        "column": 3,
+        "row": 1
 	},
+	{
+		"name": "Land advantages II",
+		"prerequisites": ["Land advantages I"],
+		"uniques": ["[+1] Range"],
+		"unitTypes": ["Mage"],
+        "column": 3,
+        "row": 2
+	},
+	{
+		"name": "Land advantages III",
+		"prerequisites": ["Land advantages II"],
+		"uniques": ["[1] Movement"],
+		"unitTypes": ["Mage"],
+        "column": 3,
+        "row": 3
+	},
+
+
+
+	{
+		"name": "Never tired",
+		"prerequisites": ["Land advantages II"],
+		"uniques": ["Can move after attacking"],
+		"unitTypes": ["Mage"],
+        "column": 4,
+        "row": 3
+	},
+	{
+		"name": "Unstoppable",
+		"prerequisites": ["Land advantages III"],
+		"uniques": ["All tiles cost 1 movement"],
+		"unitTypes": ["Mage"],
+        "column": 4,
+        "row": 4
+	},
+
+
+
+	{
+  "name": "Defensive mage I",
+		"uniques": ["[15]% Strength <when defending>"],
+		"unitTypes": ["Mage"],
+        "column": 5,
+        "row": 1
+	},
+	{
+		"name": "Defensive mage II",
+		"prerequisites": ["Barrage I"],
+		"uniques": ["[+8] HP when healing","No defensive terrain penalty"],
+		"unitTypes": ["Mage"],
+        "column": 5,
+        "row": 2
+	},
+	{
+		"name": "Defensive mage III",
+		"prerequisites": ["Defensive mage II"],
+		"uniques": ["[15]% Strength <when defending>"],
+		"unitTypes": ["Mage"],
+        "column": 5,
+        "row": 3
+	},
+
+
+
 
 	{
 		"name": "Volley",
-		"prerequisites": ["Accuracy I","Barrage I"],
+		"prerequisites": [""],
 		"uniques": ["[+50]% Strength <vs cities>"],
 		"unitTypes": ["Mage"],
         "column": 3,
@@ -67,7 +136,7 @@
 	},
 	{
 		"name": "Extended Range",
-		"prerequisites": ["Accuracy III","Barrage III","Targeting II","Bombardment II", "Wolfpack II"],
+		"prerequisites": [""],
 		"uniques": ["[+1] Range"],
 		"unitTypes": ["Mage"],
         "column": 3,
@@ -75,7 +144,7 @@
 	},
 	{
 		"name": "Indirect Fire",
-		"prerequisites": ["Accuracy III", "Barrage III", "Bombardment II", "Targeting II"],
+		"prerequisites": [""],
 		"uniques": ["Ranged attacks may be performed over obstacles"],
 		"unitTypes": ["Mage"],
         "column": 3,
