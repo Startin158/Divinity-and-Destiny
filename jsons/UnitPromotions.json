@@ -44,7 +44,7 @@
         "row": 3
     },
 {
-		"name": "Blitz",
+		"name": "BBlitz",
 		"prerequisites": ["Offensive mage III"],
 		"uniques": ["[1] additional attacks per turn"],
 		"unitTypes": ["Mage"],
