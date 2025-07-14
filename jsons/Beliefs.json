@@ -145,6 +145,59 @@
    {
         "name": "Religious dogmas",
         "type": "Enhancer",
-        "uniques": ["[+1 Faith] per [2] population [in cities following our religion]"]
+        "uniques": ["[+1 Faith] from every [3] global followers [in all cities]"]
     },
+{
+        "name": "Stronger religion",
+        "type": "Enhancer",
+        "uniques": ["Gain a free [Follower] belief","Gain a free [Founder] belief"]
+    },
+{
+        "name": "Faith strengthen",
+        "type": "Enhancer",
+        "uniques": ["[+3 Faith] from all [Gold] buildings"]
+    },
+{
+        "name": "Arrival of the messiah",
+        "type": "Enhancer",
+        "uniques": ["Free [Great Prophet] appears <every [80] turns>"]
+    },
+{
+        "name": "Long-distance diffusion",
+        "type": "Enhancer",
+        "uniques": ["[-33]% Natural religion spread [in all cities]","Religion naturally spreads to cities [6] tiles away"]
+    },
+{
+        "name": "Natural diffusion",
+        "type": "Enhancer",
+        "uniques": ["[30]% Natural religion spread [in all cities]","[20]% Natural religion spread [in your cities]","[10]% Natural religion spread [in City-State cities]"]
+    },
+{
+        "name": "Express diffusion",
+        "type": "Enhancer",
+        "uniques": ["[+2] Movement <for [Missionary] units>","[+1] Movement <for [Great Prophet] units>"]
+    },
+{
+        "name": "Powerful diffusion",
+        "type": "Enhancer",
+        "uniques": ["[+50]% Spread Religion Strength <for [Great Prophet] units>","[100]% Spread Religion Strength <for [Missionary] units>"]
+    },
+{
+        "name": "War diffusion",
+        "type": "Enhancer",
+        "uniques": ["[100]% Natural religion spread [in all cities] <when at war>","Earn [75]% of killed [All] unit's [Strength] as [Faith] <when at war>"]
+    },
+{
+        "name": "Peace diffusion",
+        "type": "Enhancer",
+        "uniques": ["[50]% Natural religion spread [in all cities] <when not at war>","Earn [25]% of killed [All] unit's [Strength] as [Faith] <when not at war>"]
+    },
+{
+        "name": "Religious festival",
+        "type": "Enhancer",
+        "uniques": ["Triggers a [Religious festival] event <upon discovering a Natural Wonder>"]
+    },
+
+
+
 ]
