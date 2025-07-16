@@ -97,7 +97,7 @@
 		"gold": 2,
   "production": 3,
 		"movementCost": 1,
-  "uniques":["Has an elevation of [2] for visibility calculations","Occurs in chains at high elevations","Units ending their turn on this terrain take [100] damage","Always Fertility [-4] for Map Generation","Every [10] tiles with this terrain will receive a major deposit of a strategic resource","[+20] Strength for cities built on this terrain"],
+  "uniques":["Has an elevation of [2] for visibility calculations","Occurs in chains at high elevations","Units ending their turn on this terrain take [100] damage","Always Fertility [-4] for Map Generation","[+20] Strength for cities built on this terrain","Must be adjacent to [0] [Coast] tiles","Must be adjacent to [0] [Grassland] tiles","Must be adjacent to [2] to [6] [Hill] tiles","Must be adjacent to [0] to [2] [Mountain] tiles","Tile provides yield without assigned population"],
 		"RGB": [255, 151, 151]
 	},
 {
