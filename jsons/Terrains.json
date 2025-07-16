@@ -8,7 +8,7 @@
 		"gold": 1,
 		"movementCost": 1,
 		"RGB": [43, 87, 151]
-  "uniques": [[Becomes [Coast] when adjacent to [Volcano]"]
+  "uniques": ["[Becomes [Coast] when adjacent to [Volcano]"]
 	},
 	{
 		"name": "Coast",
