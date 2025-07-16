@@ -109,7 +109,7 @@
 		"overrideStats": true,
 		"RGB": [170,72,72],
 		"occursOn": ["Tundra","Plains","Grassland","Desert","Snow"],
-  "uniques": ["Rough terrain","[+10] Strength for cities built on this terrain","Always Fertility [-3] for Map Generation","Units ending their turn on this terrain take [20] damage""]
+  "uniques": ["Rough terrain","[+10] Strength for cities built on this terrain","Always Fertility [-3] for Map Generation","Units ending their turn on this terrain take [20] damage"]
 	},
 
 
