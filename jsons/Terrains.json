@@ -1,7 +1,7 @@
 [
 
 //base 
-
+{
 "name": "Ocean",
 		"type": "Water",
 		"food": 1,
