@@ -42,7 +42,7 @@
 {
         "name": "Religious tyranny",
         "type": "Pantheon",
-        "uniques": ["[-1 Happiness, +1 Gold, +1 Faith, +1 Production, +1 Food] per [1] population [in all cities]","[-1 Happiness, +2 Gold, +1 Faith, +2 Food] per [1] population [in capital]"]
+        "uniques": ["[-1 Happiness, +1 Gold, +1 Faith, +1 Production, +1 Food] per [4] population [in all cities]","[-1 Happiness, +2 Gold, +1 Faith, +2 Food] per [4] population [in capital]"]
     },
 
 
@@ -63,7 +63,7 @@
    {
         "name": "Gold lover",
         "type": "Follower",
-        "uniques": ["[+1 Happiness] from every [Trading post]","[+2 Gold] from all [Gold] buildings"] 
+        "uniques": ["[+1 Happiness] from every [Trading post]","[+1 Gold] from all [Gold] buildings"] 
     },
   {
         "name": "Sacred mine",
