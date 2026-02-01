@@ -11,7 +11,7 @@
 		"attackSound": "crossbow"
 	},
 {
-		"name": "Feu",
+		"name": "God?",
 		"unitType": "Archery",
 		"movement": 2,
 		"strength": 20,
@@ -22,7 +22,7 @@
 		"attackSound": "crossbow"
 	},
 {
-		"name": "Feu",
+		"name": "Incomplete god",
 		"unitType": "Archery",
 		"movement": 2,
 		"strength": 20,
