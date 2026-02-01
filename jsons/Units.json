@@ -10,4 +10,26 @@
   "uniques": ["Turn this tile into a [Desert] tile <costs [10] [Divine power]>"]
 		"attackSound": "crossbow"
 	},
+{
+		"name": "Feu",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 20,
+		"rangedStrength": 24,
+		"cost": 200,
+		"requiredTech": "Great divine power",
+  "uniques": ["Turn this tile into a [Desert] tile <costs [10] [Divine power]>"]
+		"attackSound": "crossbow"
+	},
+{
+		"name": "Feu",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 20,
+		"rangedStrength": 24,
+		"cost": 200,
+		"requiredTech": "Great divine power",
+  "uniques": ["Turn this tile into a [Desert] tile <costs [10] [Divine power]>"]
+		"attackSound": "crossbow"
+	},
 ]
