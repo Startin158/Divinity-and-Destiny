@@ -7,7 +7,7 @@
 		"rangedStrength": 24,
 		"cost": 200,
 		"requiredTech": "Great divine power",
-  "uniques": ["Turn this tile into a [Desert] tile <costs [10] [Divine power]>"]
+  "uniques": ["Can instantly construct a [Oil well] improvement <costs [75] [Divine power]>"]
 		"attackSound": "crossbow"
 	},
 {
