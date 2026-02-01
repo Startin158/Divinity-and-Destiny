@@ -3,11 +3,11 @@
 		"name": "Feu",
 		"unitType": "Archery",
 		"movement": 2,
-		"strength": 20,
+		"strength": 12,
 		"rangedStrength": 24,
 		"cost": 200,
 		"requiredTech": "Great divine power",
-  "uniques": ["Can instantly construct a [Oil well] improvement <costs [75] [Divine power]>"]
+  "uniques": ["Can instantly construct a [test] improvement <costs [75] [Divine power]>","Ranged attacks may be performed over obstacles"]
 		"attackSound": "crossbow"
 	},
 {
